@@ -1,0 +1,3 @@
+Integration testing is done to check the interface between  two or more modules works without any defect and 
+
+ and satisfies the requirement.It is very useful in case of end to end testing.

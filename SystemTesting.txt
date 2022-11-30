@@ -1,0 +1,2 @@
+SystemTesting is done to to validate complete and fully developed integrated software.System testing is also done to 
+to test how software intefaces with other hardware systems.

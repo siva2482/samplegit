@@ -1,0 +1,5 @@
+Functional testing:
+  Functional testing is a kind of black-box testing that is performed 
+to confirm that the functionality of an application or system is behaving as expected.
+As a functional tester i have wrote unit test cases for webelement and tested their functionality.
+Tested login functionality,creating new user functionality are all functional testing

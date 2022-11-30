@@ -1,0 +1,1 @@
+Smoke testing is done to test the stability of the build so makesure that all the core functionalities of an application works without any defect.

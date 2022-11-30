@@ -1,0 +1,1 @@
+Regression Testing is done to test whether the existing functionalities works fine and not impacted by new code change or bug fix.

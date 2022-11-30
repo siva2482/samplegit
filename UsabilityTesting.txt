@@ -1,0 +1,2 @@
+This is also beta testing .This testing is done to make sure how comfortable an user feels while
+ using an application under test.Sometimes it is donr by customers to get their feedback for further improvements.

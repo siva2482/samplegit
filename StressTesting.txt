@@ -1,0 +1,1 @@
+Stress testing verifies the stability and reliability of an application.This is test to find whta is the breaking point of an application and to evaluate how software works unnder extreme conditions.

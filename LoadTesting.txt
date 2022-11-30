@@ -1,0 +1,2 @@
+Load Testing is a non functional testing to test how an application behaves with expected load.thsi is kind of testing 
+performance of the application.
